@@ -1,0 +1,70 @@
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #fafafa;
+}
+header
+ 	{
+ 		overflow: hidden;
+ 		background: #1c1d4f repeat;
+ 		overflow: hidden;
+        position: relative;
+        padding: 5em 0em;
+
+ 	}
+
+	#menu
+    	{
+    		position: absolute;
+    		top: 4em;
+    		right: 0;
+    	}
+
+    	#menu ul
+    	{
+    		display: inline-block;
+    		font-family: 'Poppins', sans-serif;
+    	}
+
+    	#menu li
+    	{
+    		display: block;
+    		float: left;
+
+    		text-align: center;
+    	}
+    	li {
+            font-family: 'Poppins', sans-serif;
+            font-size: 1.1em;
+            font-weight: 300;
+            line-height: 1.7em;
+            color: #999;
+        }
+
+    	#menu li a, #menu li span
+    	{
+    		padding: 1em 1.5em;
+    		letter-spacing: 0.10em;
+    		text-decoration: none;
+    		text-transform: uppercase;
+    		font-weight: 600;
+
+    		font-size: 0.90em !important;
+    		color: #ebebf0;
+    	}
+
+    	#menu li:hover a, #menu li.active a, #menu li.active span
+    	{
+    	}
+
+    	#menu .current_page_item a
+    	{
+    		background: #9798a1;
+            border: 1px solid #1c1d4f;
+            border-radius: 350px;
+    	}
+
+    	#menu .icon
+    	{
+    	}
