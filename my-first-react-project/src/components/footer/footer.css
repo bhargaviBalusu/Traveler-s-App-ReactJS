@@ -1,10 +1,10 @@
 footer
 {
      height:100px;
-     background:#F0F0F0;
+     background:#1c1d4f;
      border:1px solid #CCC;
      width:100%;
      margin:10px auto;
      position: absolute;
-     bottom: 0px;
+     bottom: 0;
  }

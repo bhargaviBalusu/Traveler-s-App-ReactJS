@@ -1,0 +1,27 @@
+.bcontainer
+{
+  position: absolute;
+           top: 30%;
+           left: 30%;
+
+}
+.bcontainer div{
+           width: 650px;
+           height: 150px;
+           border: 1px #ddd solid;
+            box-sizing: border-box;
+           background-color: #e9ecef;
+          border-radius: 0.5em;
+
+}
+#fontContent{
+          margin: auto;
+          font-family: 'FranchiseRegular','Arial Narrow',Arial,sans-serif;
+          font-weight: 700!important;
+          text-align: center;
+          font-size: 35px;
+}
+.page-deets {
+  margin-top: 80px;
+}
+

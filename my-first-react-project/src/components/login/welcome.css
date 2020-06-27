@@ -1,0 +1,15 @@
+#welcome p
+{
+
+     font-size: 100px;
+     color: white;
+     font-family: 'FranchiseRegular','Arial Narrow',Arial,sans-serif;
+     font-weight: bold;
+     text-align: center;
+     height: 7em;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+
+
+}

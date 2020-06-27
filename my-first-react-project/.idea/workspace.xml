@@ -21,13 +21,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/login" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/TripMaker" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="B:\reactJsProject\my-first-react-project\src\components\login" />
-      <recent name="B:\reactJsProject\my-first-react-project\src\components\pages" />
-      <recent name="B:\reactJsProject\my-first-react-project\src\components\footer" />
+      <recent name="B:\reactJsProject\my-first-react-project\src\components\TripMaker" />
+      <recent name="B:\reactJsProject\my-first-react-project\src\components\hotels" />
+      <recent name="B:\reactJsProject\my-first-react-project\src\components\flights" />
+      <recent name="B:\reactJsProject\my-first-react-project\src\components\Home\img" />
+      <recent name="B:\reactJsProject\my-first-react-project\src\components\hotels\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="B:\reactJsProject\my-first-react-project\src\components\Home\img" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -44,9 +49,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1588627914237">
+    <state x="447" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592249586524">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588627914237" />
+    <state x="447" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1592249586524" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1590168338181">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590168338181" />
+    <state x="1916" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1593292920509">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1916" y="273" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1593292920509" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592015702005" />
+    <state x="329" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592343880901">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="329" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1592343880901" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1592275089438">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1592275089438" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590532445927">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590532445927" />
   </component>
 </project>
